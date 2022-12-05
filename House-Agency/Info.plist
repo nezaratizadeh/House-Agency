@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>GothamSSm-Black.otf</string>
+		<string>GothamSSm-BlackItalic.otf</string>
+		<string>GothamSSm-Bold.otf</string>
+		<string>GothamSSm-BoldItalic.otf</string>
+		<string>GothamSSm-Book.otf</string>
+		<string>GothamSSm-BookItalic.otf</string>
+		<string>GothamSSm-Light.otf</string>
+		<string>GothamSSm-LightItalic.otf</string>
+		<string>GothamSSm-Medium.otf</string>
+		<string>GothamSSm-MediumItalic.otf</string>
+		<string>GothamSSm-XLight.otf</string>
+		<string>GothamSSm-XLightItalic.otf</string>
+	</array>
+</dict>
+</plist>
